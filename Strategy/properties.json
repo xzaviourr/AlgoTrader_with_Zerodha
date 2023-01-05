@@ -1,0 +1,8 @@
+{
+    "target": 200,
+    "trailing_stoploss": 20,
+    "quantity": 1,
+    "lot_size": 25,
+    "stoploss": 200,
+    "paper_trading": 1
+}
